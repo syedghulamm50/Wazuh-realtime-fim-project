@@ -51,7 +51,7 @@ After installation, the endpoints successfully connected with the Wazuh Manager.
 
 Agent communication was verified from the dashboard.
 
-![Agent Deployment](images/agentss.png)
+![Agent Deployment](images/agentss.PNG)
 
 *Figure 1: Deploying Wazuh Agent.*
 
