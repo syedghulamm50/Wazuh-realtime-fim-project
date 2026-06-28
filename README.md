@@ -197,12 +197,12 @@ The dashboard displays a new file creation alert.
 
 The lab successfully demonstrated:
 
-✅ Wazuh Agent deployment  
-✅ Endpoint registration  
-✅ Real-time File Integrity Monitoring  
-✅ Detection of unauthorized file changes  
-✅ Detection of new file creation events  
-✅ Security alert investigation  
+Wazuh Agent deployment  
+Endpoint registration  
+Real-time File Integrity Monitoring  
+Detection of unauthorized file changes  
+Detection of new file creation events  
+Security alert investigation  
 
 ---
 
